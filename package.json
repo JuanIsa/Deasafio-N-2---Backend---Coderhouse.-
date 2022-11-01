@@ -1,0 +1,17 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "manejo de archivos en Node JS",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "JTS",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
